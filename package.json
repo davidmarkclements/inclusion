@@ -6,7 +6,15 @@
   "scripts": {
     "test": "tap --no-esm"
   },
-  "keywords": ["import", "require", "dynamic", "typescript", "babel", "esm", "cjs"],
+  "keywords": [
+    "import",
+    "require",
+    "dynamic",
+    "typescript",
+    "babel",
+    "esm",
+    "cjs"
+  ],
   "author": "@davidmarkclem",
   "license": "ISC",
   "dependencies": {
@@ -14,5 +22,13 @@
   },
   "devDependencies": {
     "tap": "^14.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/inclusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/inclusion/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/inclusion#readme"
 }
