@@ -1,6 +1,6 @@
 {
   "name": "inclusion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dynamic imports for all",
   "main": "index.js",
   "scripts": {
