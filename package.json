@@ -4,7 +4,7 @@
   "description": "Dynamic imports for all",
   "main": "index.js",
   "scripts": {
-    "test": "tap --no-esm"
+    "test": "tap"
   },
   "keywords": [
     "import",
@@ -21,7 +21,10 @@
     "parent-module": "^2.0.0"
   },
   "devDependencies": {
-    "tap": "^14.11.0"
+    "tap": "^15.1.5"
+  },
+  "engines": {
+    "node": ">=10.12.0"
   },
   "repository": {
     "type": "git",
